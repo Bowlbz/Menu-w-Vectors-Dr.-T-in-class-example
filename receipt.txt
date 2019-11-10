@@ -1,0 +1,13 @@
+*****************RECEIPT************************
+
+Items Purchased RECEIPT: 
+Subtotal: $57
+Tax Rate: $8.62%
+Tax Amount: 4.7025
+Total with Tax: $61.7025
+
+Tip Amount: $10
+Total Due: $71.7025
+
+Tender: 100
+Change: $28.2975
